@@ -1,0 +1,36 @@
+body{
+    background-color:black
+}
+.container-1{
+    background-color: black;
+}
+.container-2{
+    background-color: black;
+}
+.container-2 input{
+    align-items: center;
+}
+.container-2 #submit{
+    display: block;
+    margin: 0 auto;
+    
+}
+.container-2 .logincenter{
+    display: block;
+    margin: 0 auto;
+    
+}
+.container h1{
+    color: violet;
+}
+h1{
+    text-align: center;
+    display: block;
+    color: violet;
+}
+h4{
+    text-align: center;
+    color: blueviolet;
+}
+
+
